@@ -41,3 +41,15 @@ body {
   padding: 20px;
   margin-top: 20px;
 }
+
+.display-entry-button div { 
+  padding-bottom: 1em;
+}
+
+.display-entry-button {
+  margin: .2em;
+}
+
+.display-entry-button:hover {
+  cursor: pointer;
+}
